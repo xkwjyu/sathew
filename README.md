@@ -7,9 +7,8 @@
 	+ [o0HalfLife0o大佬 TG频道](https://t.me/TVBoxOSC)：实时接收来自Github的"最新测试版APK"提醒，直接从TG下载。
 
 ## 配置地址 简易设定流程：
-* 我的 --> 设置 --> 配置地址 (底下二选一)
-	1. 请输入 https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json --> 确定
-	2. CH猫友免墙地址 请输入 https://freed.yuanhsing.cf/TVBox/meowcf.json --> 确定
+* 我的 --> 设置 --> 配置地址
+	1. 请输入 https://gitea.com/qq591409016/TVBox/raw/branch/master/meow.json --> 确定
 
 ## 切换数据源
 * 我的 --> 设置 --> 首页数据源
