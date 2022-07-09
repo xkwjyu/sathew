@@ -5,7 +5,7 @@
 {
 //"spider":"https://gitea.com/qq591409016/TVBox/raw/branch/master/MaooXB2/XBiubiuLA3.jar",
 "spider":"https://gitea.com/qq591409016/TVBox/raw/branch/master/MaooXB2/XBiubiuLA4.jar",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcXE1OTE0MDkwMTYvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvdHYvbGl2ZTEudHh0","proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcXE1OTE0MDkwMTYvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvdHYvbGl2ZTIudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcXE1OTE0MDkwMTYvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvdHYvbGl2ZTIudHh0"]}]}],
 "sites":[
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/qq591409016/TVBox/raw/branch/master/MaooXP/duboku.json"},
 {"key":"if101资源t1","name":"if101(海外推荐)","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":0,"filterable":0},
