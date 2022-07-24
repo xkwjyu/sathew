@@ -1,5 +1,21 @@
 ❤️央视频道,#genre#
 CCTV-1,http://39.135.32.236:6610/PLTV/77777777/224/3221225654/index.m3u8?
+
+CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
+CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
+CCTV2-财经频道,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
+CCTV2-财经频道,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
+CCTV4-欧洲,http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
+CCTV5+体育赛事,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+CCTV5+体育赛事,http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
+CCTV9-记录频道,http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
+CCTV10-科教频道,http://117.148.179.164/PLTV/88888888/224/3221232492/index.m3u8
+CCTV10-科教频道,http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8
+CCTV11-戏曲频道,http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
+CCTV12-社会与法,http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
+CCTV13-新闻频道,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV17-农村频道,http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
+
 CCTV-2,http://39.135.32.236:6610/PLTV/77777777/224/3221225657/index.m3u8?
 CCTV-3,http://39.135.32.236:6610/PLTV/77777777/224/3221225677/index.m3u8?
 CCTV-4,http://39.135.32.236:6610/PLTV/77777777/224/3221225753/index.m3u8?
@@ -947,7 +963,62 @@ SNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 
 
 🗼港澳台,#genre#
-港澳其他,#genre#
+東森新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+東森財經新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
+TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
+三立新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
+中視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
+台視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
+民視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
+中天新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+民視影劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+民視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+民視旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+无线新闻,http://ye23.win/iptv/tvb.php?id=1
+无线财经,http://ye23.win/iptv/tvb.php?id=2
+无线新闻,http://ye23.win/iptv/tvb.php?id=4
+无线新闻,http://ye23.win/iptv/tvb.php?id=5
+无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
+无线财经,http://111.229.84.232/yulin/tvb.php?id=2
+翡翠台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+龙华戏剧,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华日韩,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+环宇新闻,http://59.125.101.187:8528/1.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBSG,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森美洲新闻台,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+天映频道,http://203.77.246.50:5000/udp/239.1.2.162:5000
+
+
+
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+
+無綫新聞台,http://livetv.dnsfor.me:80/channel.10.m3u8
+無綫財經資訊台,http://livetv.dnsfor.me:80/channel.11.m3u8
+Now Sports Prime 630,http://livetv.dnsfor.me:80/channel.12.m3u8
+RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
+RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
+
+有線新聞台 HD,http://livetv.dnsfor.me:80/channel.5.m3u8
+有線財經資訊台 HD,http://livetv.dnsfor.me:80/channel.6.m3u8
+有線綜合娛樂台 HD,http://livetv.dnsfor.me:80/channel.7.m3u8
+開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
+
+
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
